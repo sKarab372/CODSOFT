@@ -23,3 +23,5 @@ new_password = ""
 for i in password:
     new_password += i
 print(f"Hard Password is {new_password}")
+# # This code generates a random password based on user-defined criteria, including the number of letters, symbols, and numbers.
+# # It uses the random module to select characters from predefined lists and shuffles the final password for added security.

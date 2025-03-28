@@ -50,3 +50,5 @@ while flag:
         flag = False
     else:
         print("Invalid choice. Choose again.")
+# # This code implements a simple calculator that allows users to perform basic arithmetic operations.
+# # It provides a menu for user interaction and handles division by zero gracefully.

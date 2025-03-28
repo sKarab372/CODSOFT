@@ -33,3 +33,7 @@ while flag:
     elif choice == 4:
         print("Bye, bye!!!")
         flag = False
+    else:
+        print("Invalid choice. Choose again.")
+# # This code implements a simple to-do list application that allows users to add, view, and delete tasks.
+# # It uses a list to store tasks and provides a menu for user interaction.
