@@ -1,3 +1,5 @@
+contact_book_art = '''🅒🅞🅝🅣🅐🅒🅣 🅑🅞🅞🅚'''
+
 contact_book = []
 
 def add_contact(name, phone,email,address):
@@ -27,6 +29,7 @@ def delete_contact(index):
 
 def main():
     flag = True
+    print(contact_book_art)
     while flag:
         print("1. Add Contact")
         print("2. View Contacts")

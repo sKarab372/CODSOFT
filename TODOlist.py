@@ -1,5 +1,7 @@
+todo_art = '''𝕋𝕆-𝔻𝕆 𝕝𝕚𝕤𝕥'''
 todo = []
 flag = True
+print(todo_art)
 while flag:
     print("1.Enter a new task")
     print("2.View tasks")
